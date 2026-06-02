@@ -2,7 +2,7 @@
 //  RunView.swift
 //  TimsRun
 //
-//  Created by Kenneth Plumstead on 2025-09-25.
+//  Created by MD Faiaz on 2026-06-01.
 //
 
 import SwiftUI
